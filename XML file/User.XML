@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfUser>
+	<User>
+		<EmailAddress>tinuraj@gmail.com</EmailAddress>
+		<Id>1</Id>
+		<Password>tinu@123</Password>
+		<PhoneNumber>9089098907</PhoneNumber>
+		<Username>Tinu</Username>
+	</User>
+	<User>
+		<EmailAddress>Harsh12@gmail.com</EmailAddress>
+		<Id>2</Id>
+		<Password>Harsh@1212</Password>
+		<PhoneNumber>8989786790</PhoneNumber>
+		<Username>Harshini</Username>
+	</User>
+	<User>
+		<EmailAddress>sakthe@gmail.com</EmailAddress>
+		<Id>3</Id>
+		<Password>hari_the24</Password>
+		<PhoneNumber>7890987867</PhoneNumber>
+		<Username>Harine</Username>
+	</User>
+	<User>
+		<EmailAddress>suru@gmail.com</EmailAddress>
+		<Id>4</Id>
+		<Password>suru@001</Password>
+		<PhoneNumber>9089780998</PhoneNumber>
+		<Username>shruthi</Username>
+	</User>
+	<User>
+		<EmailAddress>Ash@gmail.com</EmailAddress>
+		<Id>5</Id>
+		<Password>ash@123</Password>
+		<PhoneNumber>9867878863</PhoneNumber>
+		<Username>Ashwin</Username>
+	</User>
+	<User>
+		<EmailAddress>Chitragmail.com</EmailAddress>
+		<Id>6</Id>
+		<Password>chitra@123</Password>
+		<PhoneNumber>9576687992</PhoneNumber>
+		<Username>Chitra</Username>
+	</User>
+</ArrayOfUser>
